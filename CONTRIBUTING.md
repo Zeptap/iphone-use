@@ -26,4 +26,4 @@ It must say `0 problems`. Describe what you tested, on which iPhone and iOS vers
 
 ## Questions
 
-Open an issue, or reach us through [zeptap.com](https://zeptap.com/?utm_source=github&utm_medium=contributing&utm_campaign=iphone-use).
+Open an issue, or reach us through [zeptap.com](https://zeptap.com/?utm_source=gh).
