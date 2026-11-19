@@ -1,0 +1,17 @@
+should_trigger:
+  - "engage in my niche on instagram"
+  - "comment on fitness creators' posts today"
+  - "do my tiktok engagement"
+  - "find creators in my niche and interact"
+  - "grow my account by engaging"
+  - "like and comment on posts about ai tools"
+  - "daily engagement session"
+  - "leave real comments in my niche"
+  - "interact with creators like me"
+  - "engage with my target audience"
+should_not_trigger:
+  - "warm up my new account"
+  - "grow my reddit account"
+  - "reply to my own comments"
+  - "post my reel"
+  - "follow 100 people"

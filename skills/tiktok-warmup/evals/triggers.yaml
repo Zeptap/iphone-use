@@ -1,0 +1,17 @@
+should_trigger:
+  - "warm up my new tiktok"
+  - "do today's tiktok warm-up"
+  - "is my tiktok ready to post"
+  - "my tiktok gets 0 views"
+  - "train my for you page for my niche"
+  - "day 2 of tiktok warm-up"
+  - "how do I warm up a tiktok account"
+  - "should I post on my new tiktok yet"
+  - "did my tiktok pass the 700 view test"
+  - "keep my tiktok account healthy"
+should_not_trigger:
+  - "warm up my instagram"
+  - "upload this video to tiktok"
+  - "what's trending on tiktok"
+  - "delete my tiktok"
+  - "grow my reddit"

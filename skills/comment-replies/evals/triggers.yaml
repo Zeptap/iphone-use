@@ -1,0 +1,17 @@
+should_trigger:
+  - "reply to comments on my last reel"
+  - "answer the questions under my youtube video"
+  - "clear my unanswered comments"
+  - "reply to everyone asking about the price"
+  - "respond to comments in my voice"
+  - "reply to the comments on my newest post"
+  - "handle my instagram comments"
+  - "answer my youtube comments"
+  - "reply to feedback on my reel"
+  - "work through my comments"
+should_not_trigger:
+  - "dm everyone who commented link"
+  - "get video ideas from comments"
+  - "delete spam comments only"
+  - "pick a giveaway winner"
+  - "comment on other creators' posts"

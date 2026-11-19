@@ -1,0 +1,17 @@
+should_trigger:
+  - "what do people on reddit say about cold email tools"
+  - "find reddit threads where people ask for an app like mine"
+  - "research pain points on reddit"
+  - "what tools do founders recommend for x"
+  - "find threads I could reply to"
+  - "reddit research on my market"
+  - "what are people complaining about on reddit"
+  - "find the wording my customers use"
+  - "which subreddits talk about this"
+  - "summarize reddit opinions on notion"
+should_not_trigger:
+  - "post this to reddit"
+  - "grow my reddit karma"
+  - "reply to this thread"
+  - "delete my reddit post"
+  - "search google for this"

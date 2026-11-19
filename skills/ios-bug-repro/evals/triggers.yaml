@@ -1,0 +1,17 @@
+should_trigger:
+  - "reproduce this bug on a real iPhone"
+  - "can you repro issue #123 on device"
+  - "check if this crash happens on my phone"
+  - "follow these steps on my iPhone and tell me if you see the blank screen"
+  - "a user says the app crashes when they tap share, try it on my iPhone"
+  - "verify this Linear ticket on a physical device"
+  - "does the login button still do nothing on iOS 18, test it on my phone"
+  - "try this bug report 5 times on my iPhone and tell me how often it happens"
+  - "is this a real bug or user error, check on my iPhone"
+  - "repro the checkout freeze on device and write it up for GitHub"
+should_not_trigger:
+  - "fix the crash in AppDelegate.swift"             # code fix
+  - "test the whole onboarding flow on my iPhone"    # ios-real-device-testing
+  - "symbolicate this crash log"                     # log tooling
+  - "triage my GitHub issues"                        # issue triage
+  - "reproduce this bug in the simulator"            # simulator

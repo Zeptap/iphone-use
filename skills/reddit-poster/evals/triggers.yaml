@@ -1,0 +1,17 @@
+should_trigger:
+  - "post this to r/saas"
+  - "write a reddit post about my launch"
+  - "share my shortcut on r/shortcuts"
+  - "draft a reddit post for me to check"
+  - "post on reddit from my account"
+  - "what flair should my reddit post use"
+  - "make a reddit post that follows the rules"
+  - "put this in r/sideproject"
+  - "save a reddit draft"
+  - "announce my app on reddit"
+should_not_trigger:
+  - "reply to this reddit thread"
+  - "grow my reddit karma"
+  - "what are people saying on reddit about x"
+  - "post this to linkedin"
+  - "find reddit threads about cold email"

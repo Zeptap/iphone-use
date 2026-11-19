@@ -1,0 +1,17 @@
+should_trigger:
+  - "install the latest TestFlight build and smoke test it"
+  - "check today's TestFlight build works"
+  - "does build 42 launch on my phone"
+  - "update the beta on my iPhone and make sure login still works"
+  - "go/no-go check on the new TestFlight build"
+  - "install my app from TestFlight and try the checkout"
+  - "is the TestFlight build on my phone the right build number"
+  - "after the upload finishes, test the beta on my real iPhone"
+  - "quick sanity check of the new beta on device"
+  - "pull the newest TestFlight build and tell me if anything is broken"
+should_not_trigger:
+  - "upload my build to TestFlight"                 # App Store Connect / CI
+  - "add a tester to my TestFlight group"           # App Store Connect admin
+  - "test onboarding in the app already on my phone" # ios-real-device-testing
+  - "write release notes for build 42"              # writing
+  - "submit my app for App Store review"            # App Store Connect

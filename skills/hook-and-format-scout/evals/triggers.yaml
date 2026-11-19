@@ -1,0 +1,17 @@
+should_trigger:
+  - "what hooks are working for budgeting apps"
+  - "what format should my next reel be"
+  - "scout tiktok for my niche"
+  - "what's trending for ai tools content"
+  - "find a viral format I can copy"
+  - "top posts in my niche this week"
+  - "what hooks get views on instagram for fitness"
+  - "compare formats on tiktok and reels"
+  - "find winning hooks for my product"
+  - "what are competitors' best videos doing"
+should_not_trigger:
+  - "post my reel"
+  - "find a content gap from reddit"
+  - "edit my video"
+  - "how many views did my last post get"
+  - "find trending audio"

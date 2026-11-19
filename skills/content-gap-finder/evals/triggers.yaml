@@ -1,0 +1,17 @@
+should_trigger:
+  - "what should I make a video about"
+  - "find a content gap in my niche"
+  - "what are people asking on reddit that nobody answers on tiktok"
+  - "find underserved topics for indie founders"
+  - "give me hooks in my audience's words"
+  - "is there demand for a video about first 100 users"
+  - "find me a topic with demand but weak videos"
+  - "check reddit then tiktok for a gap"
+  - "what content is missing in the skincare niche"
+  - "find a video idea nobody has done well"
+should_not_trigger:
+  - "post this video to tiktok"
+  - "what hooks are trending this week"
+  - "summarize this reddit thread"
+  - "write me a blog post"
+  - "reply to my instagram comments"

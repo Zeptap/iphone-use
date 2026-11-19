@@ -1,0 +1,17 @@
+should_trigger:
+  - "scroll tiktok for 20 minutes and like the fitness videos"
+  - "open tiktok on my iphone and check my inbox"
+  - "how many followers does my tiktok have right now"
+  - "go through my tiktok for you page and tell me what's on it"
+  - "open my tiktok drafts"
+  - "like the marketing videos on my tiktok feed"
+  - "check who started following me on tiktok"
+  - "search tiktok for skincare routines and watch a few"
+  - "spend 15 minutes on tiktok in my niche"
+  - "what's in my tiktok activity tab"
+should_not_trigger:
+  - "download this tiktok video to my mac"
+  - "write me a tiktok script about coffee"
+  - "post this to my instagram story"
+  - "scrape the comments from this tiktok url"
+  - "what's the best time to post on tiktok"

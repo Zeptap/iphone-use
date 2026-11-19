@@ -1,0 +1,17 @@
+should_trigger:
+  - "what's working for my competitors"
+  - "check @brand's latest reels"
+  - "build a swipe file from these 3 accounts"
+  - "what are competitors posting on tiktok"
+  - "save the best posts in my niche"
+  - "which of their posts got the most views"
+  - "take apart this account's top reels"
+  - "competitor content audit"
+  - "what hooks does this brand use"
+  - "compare my competitors' tiktoks"
+should_not_trigger:
+  - "post my reel"
+  - "what's trending in my niche"
+  - "reply to my comments"
+  - "follow these accounts"
+  - "download their videos"

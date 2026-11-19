@@ -1,0 +1,17 @@
+should_trigger:
+  - "how did my tiktok do this week"
+  - "write my weekly creator report"
+  - "pull my instagram insights"
+  - "what was my best post this week"
+  - "compare my tiktok and instagram numbers"
+  - "weekly analytics summary"
+  - "how many views did I get this week"
+  - "check my tiktok studio numbers"
+  - "follower growth this week"
+  - "report my content performance"
+should_not_trigger:
+  - "how is my competitor doing"
+  - "post my video"
+  - "boost my post"
+  - "delete my analytics"
+  - "check my youtube revenue"

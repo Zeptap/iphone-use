@@ -1,0 +1,60 @@
+{
+  "name": "iphone-use",
+  "owner": {
+    "name": "Zeptap",
+    "url": "https://zeptap.com"
+  },
+  "metadata": {
+    "description": "Agent skills for your real iPhone, powered by Zeptap. Warm-ups, Reddit growth, posting, DMs, app testing and everyday jobs.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "iphone-use",
+      "description": "All iPhone Use skills: warm up accounts, find buyers on Reddit, post everywhere, answer DMs, test iOS apps on a real iPhone and run everyday jobs. Needs Zeptap for Mac with an iPhone plugged in.",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/ad-creative-scout",
+        "./skills/app-onboarding-teardown",
+        "./skills/app-review-digest",
+        "./skills/app-store-rank-check",
+        "./skills/comment-replies",
+        "./skills/competitor-content-check",
+        "./skills/content-gap-finder",
+        "./skills/content-ideas-from-comments",
+        "./skills/delivery-price-check",
+        "./skills/flight-price-check",
+        "./skills/hook-and-format-scout",
+        "./skills/instagram",
+        "./skills/instagram-comment-to-dm",
+        "./skills/instagram-dm-replies",
+        "./skills/instagram-poster",
+        "./skills/instagram-story-poster",
+        "./skills/instagram-warmup",
+        "./skills/ios-bug-repro",
+        "./skills/ios-dynamic-type-check",
+        "./skills/ios-real-device-testing",
+        "./skills/iphone-errands",
+        "./skills/iphone-shortcuts-builder",
+        "./skills/iphone-use",
+        "./skills/linkedin-engagement",
+        "./skills/linkedin-poster",
+        "./skills/multi-account-poster",
+        "./skills/niche-engagement",
+        "./skills/reddit",
+        "./skills/reddit-karma-builder",
+        "./skills/reddit-lead-finder",
+        "./skills/reddit-poster",
+        "./skills/reddit-research",
+        "./skills/short-video-cross-poster",
+        "./skills/testflight-smoke-test",
+        "./skills/tiktok",
+        "./skills/tiktok-uploader",
+        "./skills/tiktok-warmup",
+        "./skills/weekly-creator-report",
+        "./skills/youtube-shorts-uploader"
+      ]
+    }
+  ]
+}

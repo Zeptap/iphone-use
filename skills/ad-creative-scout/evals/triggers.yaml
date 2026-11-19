@@ -1,0 +1,17 @@
+should_trigger:
+  - "what ads are running for ai tools"
+  - "find competitor ads in my feed"
+  - "give me static ad ideas from what's working"
+  - "which creators are doing paid partnerships in my niche"
+  - "scout instagram ads for my niche"
+  - "what are brands advertising to me"
+  - "collect sponsored posts about fitness apps"
+  - "ad inspiration for my product"
+  - "find paid creator posts"
+  - "meta ad ideas from my feed"
+should_not_trigger:
+  - "run an ad for me"
+  - "boost my post"
+  - "what organic hooks are trending"
+  - "check my ad spend"
+  - "create a facebook ad account"

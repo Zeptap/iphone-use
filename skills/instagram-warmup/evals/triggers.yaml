@@ -1,0 +1,17 @@
+should_trigger:
+  - "warm up my new instagram account"
+  - "do today's instagram warm-up"
+  - "is my instagram ready to post"
+  - "my new instagram gets no views"
+  - "day 4 of my instagram warm-up"
+  - "how many follows on a new instagram"
+  - "train my instagram explore for fitness"
+  - "start warming up @mybrand"
+  - "my instagram account is new, what should I do daily"
+  - "should I post my first reel yet"
+should_not_trigger:
+  - "warm up my tiktok"
+  - "post my reel"
+  - "grow my reddit"
+  - "reply to my instagram dms"
+  - "check my instagram insights"

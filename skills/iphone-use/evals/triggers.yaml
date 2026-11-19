@@ -1,0 +1,17 @@
+should_trigger:
+  - "open Notes on my iPhone and add milk to the shopping list"
+  - "do this on my phone for me"
+  - "can you control my iPhone"
+  - "check what time my flight is in the airline app on my phone"
+  - "automate this on my iPhone, there's no API"
+  - "turn on dark mode on my iPhone"
+  - "look at my phone and tell me what the last notification says"
+  - "use my real iPhone to set an alarm for 6:45"
+  - "go through the Settings on my iPhone and find the storage usage"
+  - "open the app on my phone and screenshot the home screen"
+should_not_trigger:
+  - "run my app in the iOS Simulator"
+  - "automate this on my Android phone"
+  - "write an AppleScript to rename files on my Mac"
+  - "explain how iOS Shortcuts work"
+  - "build my Xcode project"

@@ -1,0 +1,17 @@
+should_trigger:
+  - "is uber eats or doordash cheaper for this"
+  - "where should I order pizza from tonight"
+  - "compare delivery prices"
+  - "cheapest way to get chipotle delivered"
+  - "check both apps for this burrito"
+  - "which delivery app is faster for this restaurant"
+  - "compare fees on doordash and uber eats"
+  - "find the best deal for my takeout order"
+  - "same order on two apps, which one"
+  - "price check my food order"
+should_not_trigger:
+  - "order my usual from doordash"
+  - "book an uber to the airport"
+  - "reorder on amazon"
+  - "find a recipe for pizza"
+  - "compare flight prices"

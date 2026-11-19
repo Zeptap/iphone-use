@@ -1,0 +1,17 @@
+should_trigger:
+  - "comment on linkedin posts in my industry"
+  - "do my linkedin engagement today"
+  - "engage with founders I follow on linkedin"
+  - "leave smart comments on ai posts on linkedin"
+  - "get on the radar of vps of marketing"
+  - "react to posts from my target accounts"
+  - "linkedin daily routine"
+  - "comment on this person's latest linkedin posts"
+  - "help me be visible on linkedin"
+  - "write thoughtful linkedin comments"
+should_not_trigger:
+  - "publish a linkedin post"
+  - "update my linkedin profile"
+  - "send connection requests to 100 people"
+  - "grow my instagram"
+  - "message recruiters"

@@ -1,0 +1,17 @@
+should_trigger:
+  - "upload this video to tiktok"
+  - "save my latest video to my tiktok drafts"
+  - "post the newest clip in my camera roll to tiktok with a caption"
+  - "put this reel on tiktok too"
+  - "upload my render to tiktok and label it ai generated"
+  - "draft a tiktok post from the video i just exported"
+  - "post this sponsored video to tiktok with the paid partnership disclosure"
+  - "can you post to tiktok for me from my phone"
+  - "upload this to tiktok but turn off duets and stitches"
+  - "write a caption and put this video in tiktok drafts"
+should_not_trigger:
+  - "download a tiktok video"
+  - "post this to instagram stories"
+  - "edit this video for tiktok in capcut on my mac"
+  - "how is my tiktok doing this week"
+  - "upload this to youtube"

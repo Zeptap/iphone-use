@@ -1,0 +1,17 @@
+should_trigger:
+  - "tear down duolingo's onboarding on my iphone"
+  - "how does calm's paywall work, screenshot every step"
+  - "screenshot this app's onboarding flow for my swipe file"
+  - "compare the paywalls of these three meditation apps"
+  - "what does the first run of this fitness app ask for"
+  - "do a teardown of a competitor app's signup and pricing"
+  - "walk through the onboarding of this app and note the dark patterns"
+  - "what trial and price does this app show on the paywall"
+  - "how many screens before the paywall in noom"
+  - "record the onboarding copy of this app for my landing page research"
+should_not_trigger:
+  - "test the signup flow of my app for bugs"
+  - "take app store screenshots of my app"
+  - "write onboarding copy for my app"
+  - "subscribe me to this app"
+  - "review my app's figma onboarding designs"

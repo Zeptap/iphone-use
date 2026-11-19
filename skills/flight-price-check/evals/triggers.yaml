@@ -1,0 +1,17 @@
+should_trigger:
+  - "is this flight cheaper on kayak or hopper"
+  - "should I book lax to jfk now or wait"
+  - "find the cheapest week to fly to new york"
+  - "compare flight prices for dec 18-25"
+  - "check flights to london on my travel apps"
+  - "is hopper saying wait or buy for this trip"
+  - "cheapest nonstop to chicago next month"
+  - "compare kayak and hopper for my trip"
+  - "when should I book my holiday flight"
+  - "price check flights before I book"
+should_not_trigger:
+  - "book this flight for me"
+  - "find a hotel in new york"
+  - "compare uber eats and doordash"
+  - "check my flight status"
+  - "get an uber to the airport"

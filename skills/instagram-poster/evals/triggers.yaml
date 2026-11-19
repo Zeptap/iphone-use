@@ -1,0 +1,17 @@
+should_trigger:
+  - "post this reel to my instagram with this caption"
+  - "upload my latest video to instagram"
+  - "post these 5 photos as a carousel"
+  - "write a caption and post my newest photo on instagram"
+  - "put this video on my ig as a reel with the ai label"
+  - "save an instagram draft of this reel so i can check it"
+  - "post a carousel of the product shots in this order"
+  - "publish my edited video to instagram reels from my iphone"
+  - "post this to instagram and tag @brand with the location"
+  - "share the newest clip in my camera roll on instagram"
+should_not_trigger:
+  - "post this to my story with a link"
+  - "schedule 30 instagram posts with the graph api"
+  - "download a reel from instagram"
+  - "post this video to tiktok"
+  - "reply to comments on my last reel"

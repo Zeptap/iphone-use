@@ -1,0 +1,17 @@
+should_trigger:
+  - "find leads on reddit"
+  - "get customers from reddit"
+  - "who on reddit wants a tool like mine"
+  - "reply to people asking for alternatives to notion"
+  - "find reddit threads that rank on google for my keywords"
+  - "answer buyers on reddit for my app"
+  - "reddit lead generation"
+  - "find people asking for a crm on reddit"
+  - "monitor reddit for my keywords and reply"
+  - "turn reddit into signups"
+should_not_trigger:
+  - "research what people say about cold email"
+  - "build my reddit karma"
+  - "post a thread in r/saas"
+  - "reply to my instagram dms"
+  - "find leads on linkedin"

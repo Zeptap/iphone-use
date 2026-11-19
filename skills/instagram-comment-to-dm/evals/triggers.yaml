@@ -1,0 +1,17 @@
+should_trigger:
+  - "send the link to everyone who commented LINK on my last reel"
+  - "DM the people who commented GUIDE"
+  - "I said comment AI BOT and I'll send it, can you send it to them"
+  - "everyone who commented 'yes' on my post needs the free template"
+  - "comment to DM without manychat"
+  - "do the manychat thing on my personal instagram"
+  - "send my lead magnet to all the commenters who asked for it"
+  - "auto DM people who comment a keyword on instagram"
+  - "reply to the keyword comments and DM them the link"
+  - "who commented PDF on my carousel? send them the PDF link"
+should_not_trigger:
+  - "reply to all the comments on my latest post"
+  - "pick a random winner from my giveaway comments"
+  - "check my Instagram DMs"
+  - "set up ManyChat with the Instagram Graph API for my business account"
+  - "export all comments from a public Instagram post to CSV with an API"

@@ -1,0 +1,17 @@
+should_trigger:
+  - "use reddit on my phone"
+  - "open reddit and check my inbox"
+  - "load the reddit guide"
+  - "reddit rules for my account"
+  - "check if my reddit account is shadowbanned"
+  - "set up my reddit brief"
+  - "switch reddit accounts"
+  - "what are the rules of r/saas"
+  - "how should I write reddit comments"
+  - "reddit app help"
+should_not_trigger:
+  - "post on instagram"
+  - "grow my tiktok"
+  - "research twitter"
+  - "send an email"
+  - "open linkedin"

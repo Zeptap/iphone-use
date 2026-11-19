@@ -1,0 +1,17 @@
+should_trigger:
+  - "upload this video as a youtube short"
+  - "post my latest clip to youtube shorts"
+  - "put this vertical video on my youtube channel"
+  - "upload the newest video in my camera roll to shorts with a good title"
+  - "publish this as an unlisted youtube short"
+  - "can you post to youtube shorts from my iphone"
+  - "write a shorts title and upload it"
+  - "add this reel to my youtube shorts too"
+  - "upload this to youtube as a short, not made for kids"
+  - "get this clip onto youtube shorts for me"
+should_not_trigger:
+  - "download this youtube short"
+  - "upload a 20 minute video to youtube"
+  - "summarize this youtube video"
+  - "post this to tiktok"
+  - "how many views did my youtube channel get"

@@ -1,0 +1,17 @@
+should_trigger:
+  - "reorder my usual coffee pods on Amazon"
+  - "get an Uber to JFK terminal 4 at 6am tomorrow"
+  - "order my usual from Uber Eats"
+  - "add my weekly groceries to the cart on my phone"
+  - "set up a ride to the airport, I'll confirm it"
+  - "rebuild my last Swiggy order"
+  - "buy the same detergent I got last month"
+  - "put my regular order in the basket so I can pay"
+  - "book a cab to the office for 9am"
+  - "reorder the phone case I bought in March"
+should_not_trigger:
+  - "transfer 500 dollars to my brother"
+  - "which coffee pods are the cheapest online"
+  - "track my Amazon package"
+  - "cancel my Uber One subscription"
+  - "post a review of this restaurant on Instagram"

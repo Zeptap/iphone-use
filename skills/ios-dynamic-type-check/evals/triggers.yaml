@@ -1,0 +1,17 @@
+should_trigger:
+  - "check my app with large text"
+  - "dynamic type audit on my iPhone"
+  - "does my app break with bigger fonts"
+  - "test my app at the largest accessibility text size"
+  - "screenshot every screen of my app at AX5"
+  - "check for truncated labels when text size is huge"
+  - "will my app pass Apple's larger text criteria"
+  - "test my iOS app with bold text and big fonts on a real device"
+  - "check my settings screen at accessibility sizes"
+  - "my users say text gets cut off with big fonts, check it on my phone"
+should_not_trigger:
+  - "make the text bigger on my iPhone"                  # a personal setting change, iphone-use
+  - "run a WCAG audit on my website"                     # web
+  - "test VoiceOver labels in my app"                    # screen reader audit
+  - "add Dynamic Type support to my SwiftUI views"       # code
+  - "test the signup flow on my iPhone"                  # ios-real-device-testing

@@ -1,0 +1,17 @@
+should_trigger:
+  - "post this on my linkedin"
+  - "schedule a linkedin post for tomorrow at 9am"
+  - "turn these notes into a linkedin post and publish it"
+  - "share my product launch on linkedin from my phone"
+  - "write a short linkedin post about this result and post it"
+  - "post this photo on linkedin with a caption"
+  - "draft a linkedin post in my voice and put it up"
+  - "can you post to my linkedin profile"
+  - "linkedin post about hiring our first engineer, post it at 8am"
+  - "publish this update on linkedin"
+should_not_trigger:
+  - "find linkedin profiles of marketing managers in berlin"
+  - "send a connection request to these people"
+  - "update my linkedin headline"
+  - "post this on instagram"
+  - "scrape this linkedin company page"

@@ -1,0 +1,17 @@
+should_trigger:
+  - "reply to my Instagram DMs"
+  - "check my Instagram message requests and tell me what's in there"
+  - "answer everyone in my DMs asking for the price"
+  - "clear my Instagram inbox, the link is shop.example.com"
+  - "go through my unread Instagram messages and draft replies"
+  - "I have like 40 DMs on insta, help me get through them"
+  - "accept the message requests from real customers and reply"
+  - "who's waiting on a reply from me on Instagram?"
+  - "reply to the story replies in my Instagram DMs"
+  - "sort my Instagram DMs into questions, collabs and spam"
+should_not_trigger:
+  - "DM everyone who commented LINK on my last post"
+  - "post this photo to my Instagram story"
+  - "download this Instagram reel"
+  - "reply to my WhatsApp messages"
+  - "set up a ManyChat flow for my Instagram business account via the API"

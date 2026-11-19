@@ -1,0 +1,17 @@
+should_trigger:
+  - "what are people complaining about in my app"
+  - "summarise my app store reviews"
+  - "read fleur's 1-star reviews"
+  - "what do users hate about this competitor"
+  - "turn app reviews into a roadmap"
+  - "group the critical reviews for habitkit"
+  - "what should I fix first based on reviews"
+  - "check recent reviews of my app"
+  - "competitor review analysis on iphone"
+  - "most critical app store reviews"
+should_not_trigger:
+  - "reply to app store reviews"
+  - "where do I rank for this keyword"
+  - "write an app store description"
+  - "leave a review for this app"
+  - "check my google play reviews"

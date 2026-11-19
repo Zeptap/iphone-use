@@ -1,0 +1,17 @@
+should_trigger:
+  - "test the signup flow on my real iPhone"
+  - "smoke test the app on device, not the simulator"
+  - "run through onboarding on my phone and tell me what breaks"
+  - "check the paywall and sandbox purchase on a physical iPhone"
+  - "QA the checkout flow in my app on my iPhone"
+  - "does push notification deep linking work on a real device"
+  - "walk through my app like a new user on my iPhone and report issues"
+  - "test my Expo app on my actual phone"
+  - "run this test plan on my iPhone with screenshots"
+  - "check the camera scan flow works on a real iPhone"
+should_not_trigger:
+  - "run my app in the iOS simulator"           # simulator tooling
+  - "reproduce bug #412 on my phone"            # ios-bug-repro
+  - "install the latest TestFlight build and smoke test it"  # testflight-smoke-test
+  - "write XCUITests for my login screen"       # code, not device driving
+  - "test my Android app on a Pixel"            # Android

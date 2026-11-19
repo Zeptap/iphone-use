@@ -1,0 +1,17 @@
+should_trigger:
+  - "post this video to reels, tiktok and shorts"
+  - "cross-post my latest video everywhere"
+  - "put this clip on instagram, tiktok and youtube"
+  - "upload my new short to all my platforms with different captions"
+  - "draft this video on tiktok and instagram and get youtube ready"
+  - "share this reel to tiktok and youtube shorts as well"
+  - "post the same video on all three short video apps"
+  - "repurpose this video across reels tiktok and shorts and post it"
+  - "publish my newest vertical video to every platform"
+  - "cross post this to tiktok and reels, captions native to each"
+should_not_trigger:
+  - "post this to my instagram story"
+  - "edit this video into three different lengths"
+  - "schedule posts across platforms with buffer"
+  - "upload this only to tiktok"
+  - "download my reels and repost them"

@@ -1,0 +1,17 @@
+should_trigger:
+  - "get me video ideas from comments"
+  - "mine the comments on this tiktok"
+  - "what are people asking under viral videos in my niche"
+  - "what questions does my audience have"
+  - "read the comments on chase ai's video"
+  - "turn comments into content ideas"
+  - "find unanswered questions in comments"
+  - "next video ideas from my comments"
+  - "what do viewers ask under claude code tips videos"
+  - "comment mining for content"
+should_not_trigger:
+  - "reply to my comments"
+  - "delete spam comments"
+  - "pick a giveaway winner from comments"
+  - "post a comment"
+  - "dm everyone who commented link"

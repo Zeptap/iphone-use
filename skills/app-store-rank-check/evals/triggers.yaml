@@ -1,0 +1,17 @@
+should_trigger:
+  - "where does my app rank for habit tracker"
+  - "check my app store keywords"
+  - "who ranks top for budget app"
+  - "is this keyword winnable"
+  - "aso check on my iphone"
+  - "what's my app's position in app store search"
+  - "who buys ads on my keyword"
+  - "compare top apps for meditation keyword"
+  - "track my app store rank"
+  - "which competitors rank for my keywords"
+should_not_trigger:
+  - "read my app store reviews"
+  - "take app store screenshots"
+  - "submit my app to the app store"
+  - "download this app"
+  - "check my google play rank"

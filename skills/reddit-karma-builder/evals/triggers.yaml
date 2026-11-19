@@ -1,0 +1,17 @@
+should_trigger:
+  - "build karma on my reddit account"
+  - "warm up my new reddit account"
+  - "do my reddit session today"
+  - "get my account ready to post in r/saas"
+  - "grow my 3 reddit accounts"
+  - "how do I get reddit karma fast"
+  - "my reddit account is too new to post"
+  - "run today's karma session for u/name"
+  - "which subreddits should my account be active in"
+  - "level up my reddit account"
+should_not_trigger:
+  - "post my launch on reddit"
+  - "research reddit for pain points"
+  - "find leads on reddit"
+  - "warm up my instagram"
+  - "delete my reddit account"

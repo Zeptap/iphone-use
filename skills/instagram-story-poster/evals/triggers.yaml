@@ -1,0 +1,17 @@
+should_trigger:
+  - "post this pic to my instagram story with a link to my store"
+  - "add a link sticker to my story"
+  - "put my latest video on my instagram story"
+  - "story about the new drop with a poll"
+  - "add a swipe up link to my ig story for the waitlist"
+  - "post a story asking my followers what to review next"
+  - "share my newest photo to close friends only"
+  - "make an instagram story with a countdown to friday's launch"
+  - "post a story tagging @brand with the location"
+  - "draft a story with a link sticker and leave it for me to post"
+should_not_trigger:
+  - "post these 5 photos as a carousel"
+  - "upload this reel with a caption"
+  - "download someone's instagram story"
+  - "reply to the people who answered my story"
+  - "schedule instagram stories for next week via the api"

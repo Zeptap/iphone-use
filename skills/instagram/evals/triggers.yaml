@@ -1,0 +1,17 @@
+should_trigger:
+  - "open instagram on my iphone"
+  - "browse instagram for 20 minutes and like the skincare posts"
+  - "scroll my instagram reels and like anything about marketing"
+  - "check my instagram notifications on my phone"
+  - "search instagram for @glossier on my iphone"
+  - "go through my instagram explore page"
+  - "spend 15 minutes on instagram in the fitness niche"
+  - "like 10 posts about coffee on my instagram"
+  - "open my instagram profile and tell me my follower count"
+  - "switch to my other instagram account on my phone"
+should_not_trigger:
+  - "download this instagram reel"
+  - "scrape 1000 instagram profiles"
+  - "write me an instagram caption"
+  - "what's the best time to post on instagram"
+  - "post to my facebook page"

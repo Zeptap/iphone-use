@@ -1,0 +1,17 @@
+should_trigger:
+  - "make a shortcut on my iPhone that texts my partner my ETA"
+  - "build me an iOS shortcut that starts a 25 minute timer"
+  - "create a Siri shortcut that plays my workout playlist"
+  - "automate this with Shortcuts on my phone"
+  - "set up a shortcut that logs my water in Notes"
+  - "make a shortcut to turn on low power mode and dim the screen"
+  - "build a shortcut that sends my location to my mom"
+  - "can you make an Apple shortcut for my morning routine"
+  - "create a home screen shortcut that opens my banking app"
+  - "make a shortcut that saves the clipboard to a note"
+should_not_trigger:
+  - "what are keyboard shortcuts on Mac"
+  - "set up a work focus on my iPhone"
+  - "write a Python script to rename files"
+  - "make an Android automation with Tasker"
+  - "turn off notifications for these apps"

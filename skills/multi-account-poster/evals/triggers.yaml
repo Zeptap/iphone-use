@@ -1,0 +1,17 @@
+should_trigger:
+  - "post this reel to all five of my client accounts"
+  - "draft this video on each of my brand's instagram accounts"
+  - "post on @brand_us and @brand_uk with different captions"
+  - "use each of my iphones to post today's video to its account"
+  - "switch between my instagram accounts and post this on each"
+  - "put this tiktok on all three of our niche accounts"
+  - "my agency runs 4 client tiktoks, draft this on each"
+  - "post the launch video from every account we manage"
+  - "adapt this caption for each account and post"
+  - "run today's posts across my connected phones"
+should_not_trigger:
+  - "post this to my instagram"
+  - "create 20 instagram accounts"
+  - "follow these accounts from all my profiles"
+  - "post this to reels tiktok and shorts"
+  - "which of my accounts has the most followers"
