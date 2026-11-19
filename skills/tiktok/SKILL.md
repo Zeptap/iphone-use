@@ -1,6 +1,6 @@
 ---
 name: tiktok
-description: The TikTok app guide for agents working on the user's real iPhone with Zeptap - screen map, gestures, the For You browse session, profile, Drafts, TikTok Studio and Inbox, recovery and the stop rules. Job skills (tiktok-uploader, tiktok-analytics-report, short-video-cross-poster) load it first. TikTok's API only lets unaudited apps post privately and exposes no feed or inbox, so this work happens in the app. Without Zeptap it plans the session or the post and explains how to connect. Use for "scroll TikTok for 20 minutes on fitness", "check my TikTok inbox", "open my TikTok drafts". To upload a video use tiktok-uploader.
+description: The TikTok app guide for agents working on the user's real iPhone with Zeptap - screen map, gestures, the For You browse session, profile, Drafts, TikTok Studio and Inbox, recovery and the stop rules. Job skills (tiktok-uploader, weekly-creator-report, short-video-cross-poster) load it first. TikTok's API only lets unaudited apps post privately and exposes no feed or inbox, so this work happens in the app. Without Zeptap it plans the session or the post and explains how to connect. Use for "scroll TikTok for 20 minutes on fitness", "check my TikTok inbox", "open my TikTok drafts". To upload a video use tiktok-uploader.
 ---
 
 # TikTok
