@@ -30,6 +30,8 @@ for name in EXPECTED:
     if m.group(1).strip() != name:
         bad(name, f"name is {m.group(1)!r}")
     desc = m.group(2).strip()
+    if ": " in desc:
+        bad(name, "description contains ': ', which breaks YAML parsing in skill installers")
     if len(desc) > 1024:
         bad(name, f"description {len(desc)} chars (max 1024)")
     if name not in APP_GUIDES and "Zeptap" not in desc:
