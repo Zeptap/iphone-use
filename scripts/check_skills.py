@@ -7,10 +7,10 @@ EXPECTED = """iphone-use instagram tiktok instagram-story-poster instagram-poste
 youtube-shorts-uploader linkedin-poster short-video-cross-poster multi-account-poster instagram-dm-replies instagram-comment-to-dm
 app-onboarding-teardown ios-real-device-testing ios-bug-repro
 ios-dynamic-type-check testflight-smoke-test iphone-errands
-iphone-shortcuts-builder content-gap-finder hook-and-format-scout content-ideas-from-comments app-store-rank-check app-review-digest
+iphone-shortcuts-builder ipad-use content-gap-finder hook-and-format-scout content-ideas-from-comments app-store-rank-check app-review-digest
 delivery-price-check reddit-poster flight-price-check instagram-warmup tiktok-warmup competitor-content-check weekly-creator-report
 comment-replies reddit-research niche-engagement ad-creative-scout linkedin-engagement reddit reddit-karma-builder reddit-lead-finder""".split()
-SHIPPED_ELSEWHERE = {"ipad-use"}
+SHIPPED_ELSEWHERE = set()
 BANNED = re.compile(r"\b(USB|Bluetooth|AssistiveTouch|OCR)\b")
 APP_GUIDES = {"instagram", "tiktok", "reddit"}
 
@@ -46,7 +46,7 @@ for name in EXPECTED:
             bad(name, "no connect message or pointer to it")
         if f"utm_campaign=" in body and f"utm_campaign={name}" not in body:
             bad(name, "connect link uses another skill's utm_campaign")
-    if not re.search(r"\[(v18|v26|docs|unverified)[\]: ]", body):
+    if not re.search(r"\[(v16|v18|v26|docs|unverified)[\]: ]", body):
         bad(name, "no evidence tags")
     n = len(body.splitlines())
     if n > 320:

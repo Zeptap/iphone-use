@@ -1,0 +1,17 @@
+should_trigger:
+  - "do this on my iPad"
+  - "open Goodnotes on my iPad and export today's notes as a PDF"
+  - "control my iPad"
+  - "check what's using the most storage on my iPad"
+  - "find the cheapest flight from Delhi to Tokyo on my iPad"
+  - "rename the files in my iPad's Downloads folder"
+  - "turn on Do Not Disturb on my iPad"
+  - "reply to the last email in Mail on my iPad"
+  - "add these three events to the calendar on my iPad"
+  - "use my iPad to check my Notability notebooks"
+should_not_trigger:
+  - "open Notes on my iPhone and add a shopping list"
+  - "test my app in the iOS Simulator on iPad Pro"
+  - "set up Sidecar so my iPad is a second Mac display"
+  - "which iPad should I buy for drawing"
+  - "automate my Android tablet"

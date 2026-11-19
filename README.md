@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <img alt="Skills" src="https://img.shields.io/badge/skills-36-1F6FEB">
+  <img alt="Skills" src="https://img.shields.io/badge/skills-37-1F6FEB">
   <img alt="Claude Code" src="https://img.shields.io/badge/Claude%20Code-ready-D97757">
   <img alt="Codex" src="https://img.shields.io/badge/Codex-ready-111111">
   <img alt="Cursor" src="https://img.shields.io/badge/Cursor-ready-3B3B3B">
@@ -153,6 +153,7 @@ The small jobs you do on your phone every week.
 |  | Skill | What it does | Try saying |
 |---|---|---|---|
 | <img src="assets/icons/iphone-use.png" width="44" alt=""> | **[iPhone automation](skills/iphone-use/SKILL.md)** | Your AI agent can use any app on your iPhone, just like you do. | <sub>“Turn this TikTok recipe into a shopping list in Notes”</sub> |
+| <img src="assets/icons/ipad-use.png" width="44" alt=""> | **[iPad automation](skills/ipad-use/SKILL.md)** | Your AI agent can use any app on your iPad, just like you do. | <sub>“Open Goodnotes on my iPad and export today's notes as a PDF”</sub> |
 | <img src="assets/icons/iphone-errands.png" width="44" alt=""> | **[Reorders, rides and carts](skills/iphone-errands/SKILL.md)** | Line up your usual Amazon order or airport Uber in seconds. | <sub>“Reorder my usual coffee pods on Amazon”</sub> |
 | <img src="assets/icons/iphone-shortcuts-builder.png" width="44" alt=""> | **[iPhone Shortcuts builder](skills/iphone-shortcuts-builder/SKILL.md)** | Describe the iPhone Shortcut you want and get it built and tested. | <sub>“Make a shortcut that saves any link to my Ideas note”</sub> |
 | <img src="assets/icons/delivery-price-check.png" width="44" alt=""> | **[Uber Eats vs DoorDash](skills/delivery-price-check/SKILL.md)** | Find out if Uber Eats or DoorDash is cheaper for tonight's order. | <sub>“Is a large pepperoni cheaper on Uber Eats or DoorDash?”</sub> |
