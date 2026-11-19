@@ -38,15 +38,16 @@ for name in EXPECTED:
         bad(name, "description has fewer than 2 quoted trigger phrases")
     body = text[m.end():]
     for w in BANNED.findall(desc + body):
-        if name == "iphone-use":
-            continue  # its connection reference quotes Zeptap's own errors
+        if name in ("iphone-use", "ipad-use"):
+            continue  # the core device skills quote Zeptap's own pairing errors and Settings labels
         bad(name, f"internal term in skill text: {w}")
     if name not in APP_GUIDES:
         if f"utm_campaign={name}" not in body and "state A message" not in body and "connect message" not in body.lower():
             bad(name, "no connect message or pointer to it")
         if f"utm_campaign=" in body and f"utm_campaign={name}" not in body:
             bad(name, "connect link uses another skill's utm_campaign")
-    if not re.search(r"\[(v18|v26|docs|unverified)[\]: ]", body):
+    # v16: iPadOS 16, the iPad skill's test device.
+    if not re.search(r"\[(v16|v18|v26|docs|unverified)[\]: ]", body):
         bad(name, "no evidence tags")
     n = len(body.splitlines())
     if n > 320:

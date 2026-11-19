@@ -56,7 +56,7 @@ A spinner, a half-finished transition, or `screen still moving after N ms` outsi
 
 ## 5. Targeting
 
-- **Text first.** `tap_text` or `find_text` for any visible label; OCR finds the exact centre.
+- **Text first.** `tap_text` or `find_text` for any visible label; Zeptap reads the screen and finds the exact centre.
 - **Duplicates:** sidebars repeat labels in the detail column (a "Bluetooth" row and a "Bluetooth" title). Use `find_text` and pick by position: the sidebar is the left third in landscape.
 - **Icons without text:** tap the centre by coordinates from the latest screenshot, away from edges and neighbours. Describe positions as fractions of the screen; iPad sizes differ.
 - **The status bar always reads 9:41.** Keep time with your own clock.
@@ -94,4 +94,4 @@ End on a verified result: what changed, as shown in the last screenshot, and the
 | `iphone-use` › `references/pickers.md`, `alerts-and-overlays.md`, `settings.md`, `app-store.md` | Same on iPad |
 | `iphone-use` › `references/connection.md` | Any other Zeptap error message |
 
-Observed on an iPad Air (4th generation) with iPadOS 16.3.1, in landscape (November 2026). Steps marked *(unverified)* in the references haven't been run on an iPad yet. On iPadOS 17 and later the pointer is faster and some labels differ: trust the screen over these notes.
+[v16 2026-11] Observed on an iPad Air (4th generation) with iPadOS 16.3.1, in landscape (November 2026). Steps marked *(unverified)* in the references haven't been run on an iPad yet. On iPadOS 17 and later the pointer is faster and some labels differ: trust the screen over these notes.

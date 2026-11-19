@@ -10,7 +10,7 @@ Fixes marked **user** need a person at the Mac or the iPad: say what to do, then
 |---|---|
 | `list_phones` has no row with an `iPad…` model | **User:** plug the iPad into the Mac, open Zeptap and follow **Pair New iPhone** (it pairs iPads too) |
 | The iPad's row says `ready=no (not connected over Bluetooth; …)` | Name it as `phone` in your next call: Zeptap connects it then. If that call says it `isn't answering over Bluetooth`, see below |
-| A result starts with another device's name (`[Saransh's iPhone]`) | You left out `phone`. Repeat the call with the iPad's `id` |
+| A result starts with another device's name (`[Maya's iPhone]`) | You left out `phone`. Repeat the call with the iPad's `id` |
 
 ## Taps, scrolls and drags do nothing
 
