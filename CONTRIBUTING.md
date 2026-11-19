@@ -1,6 +1,6 @@
 # Contributing
 
-Thanks for helping make iPhone agents more useful. Good contributions here are small, tested on a real iPhone and written so an agent can follow them without guessing.
+Thanks for helping make iPhone and iPad agents more useful. Good contributions here are small, tested on a real device and written so an agent can follow them without guessing.
 
 ## What we welcome
 
@@ -13,7 +13,7 @@ Thanks for helping make iPhone agents more useful. Good contributions here are s
 - Lives in `skills/<skill-id>/SKILL.md`. The `name` in the frontmatter equals the folder name (lowercase, hyphens).
 - The `description` says what it does and when to use it, in plain words, under 1,024 characters, with no angle brackets.
 - Runs in order: setup questions on the first run only, the steps, stop rules, then a short report.
-- Has a "Without Zeptap" section, so it still helps people who haven't connected an iPhone.
+- Has a "Without Zeptap" section, so it still helps people who haven't connected an iPhone or iPad.
 - Never asks the agent to do anything you wouldn't do yourself. No vote manipulation, no fake accounts, no spam.
 
 ## Before you open a pull request
@@ -22,7 +22,7 @@ Thanks for helping make iPhone agents more useful. Good contributions here are s
 python3 scripts/check_skills.py
 ```
 
-It must say `0 problems`. Describe what you tested, on which iPhone and iOS version.
+It must say `0 problems`. Describe what you tested, on which iPhone or iPad and which iOS or iPadOS version.
 
 ## Questions
 

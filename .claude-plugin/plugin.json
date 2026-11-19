@@ -1,10 +1,27 @@
 {
   "name": "iphone-use",
-  "version": "1.0.0",
-  "description": "Agent skills for your real iPhone: warm up accounts, find buyers on Reddit, post everywhere, answer DMs, test iOS apps on a real device and run everyday jobs. Needs Zeptap for Mac with an iPhone plugged in.",
-  "author": { "name": "Zeptap", "url": "https://zeptap.com" },
-  "homepage": "https://zeptap.com",
+  "version": "1.1.0",
+  "description": "37 agent skills for your real iPhone or iPad, powered by Zeptap. Warm up accounts, find buyers on Reddit, post everywhere, answer DMs, test iOS apps and run everyday jobs in your own apps. Up to 5 devices at once. Needs Zeptap for Mac with an iPhone or iPad plugged in.",
+  "author": {
+    "name": "Zeptap",
+    "url": "https://zeptap.com"
+  },
+  "homepage": "https://zeptap.com/skills",
   "repository": "https://github.com/Zeptap/iphone-use",
   "license": "MIT",
-  "keywords": ["iphone", "ios", "mobile-automation", "computer-use", "instagram", "tiktok", "reddit", "ios-testing", "agent-skills", "mcp"]
+  "keywords": [
+    "iphone",
+    "ios",
+    "iphone-automation",
+    "ipad-automation",
+    "ipad",
+    "mobile-automation",
+    "computer-use",
+    "instagram",
+    "tiktok",
+    "reddit",
+    "ios-testing",
+    "agent-skills",
+    "mcp"
+  ]
 }

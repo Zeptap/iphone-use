@@ -1,6 +1,6 @@
 ---
 name: ipad-use
-description: Use the user's real iPad like a person would - open apps, read the screen, tap, scroll and type in their signed-in apps, then check the result - for jobs in apps with no API. Use when the user asks to do something on their iPad or in an iPad app ("do this on my iPad", "open Goodnotes on my iPad and...", "control my iPad", "check X on my iPad"), or when Zeptap's list_phones shows an iPad. Works on your real iPad with Zeptap; without it, plans the task and explains how to connect. For iPhones use iphone-use. Not for the iOS Simulator, Sidecar, Universal Control, Android or Mac automation.
+description: Use the user's real iPad like a person would, on the user's real iPad with Zeptap - open apps, read the screen, tap, scroll and type in their signed-in apps, then check the result. For jobs that live inside iPad apps with no API, which simulators, browsers and cloud devices can't reach. Handles what's different on an iPad - landscape screens, sidebars and columns, the Dock, Split View and the iPad pointer. Without Zeptap it plans the task step by step and explains how to connect the iPad in about two minutes. Use for "do this on my iPad", "open Goodnotes on my iPad and...", "control my iPad", "automate this on my iPad", "check X on my iPad", or when Zeptap's list_phones shows an iPad. Works alongside iPhones on the same Mac. For iPhones use iphone-use; not for the iOS Simulator, Sidecar, Universal Control, Android or Mac automation.
 ---
 
 # iPad use

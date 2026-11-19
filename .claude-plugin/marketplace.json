@@ -5,13 +5,13 @@
     "url": "https://zeptap.com"
   },
   "metadata": {
-    "description": "Agent skills for your real iPhone, powered by Zeptap. Warm-ups, Reddit growth, posting, DMs, app testing and everyday jobs.",
-    "version": "1.0.0"
+    "description": "37 agent skills for your real iPhone or iPad, powered by Zeptap. Warm up accounts, find buyers on Reddit, post everywhere, answer DMs, test iOS apps and run everyday jobs in your own apps. Up to 5 devices at once.",
+    "version": "1.1.0"
   },
   "plugins": [
     {
       "name": "iphone-use",
-      "description": "All iPhone Use skills: warm up accounts, find buyers on Reddit, post everywhere, answer DMs, test iOS apps on a real iPhone and run everyday jobs. Needs Zeptap for Mac with an iPhone plugged in.",
+      "description": "37 agent skills for your real iPhone or iPad, powered by Zeptap. Warm up accounts, find buyers on Reddit, post everywhere, answer DMs, test iOS apps and run everyday jobs in your own apps. Up to 5 devices at once. Needs Zeptap for Mac with an iPhone or iPad plugged in.",
       "source": "./",
       "strict": false,
       "skills": [

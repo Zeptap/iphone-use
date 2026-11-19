@@ -6,7 +6,7 @@ Plain-text agent skills (`SKILL.md` files) and a small Python checker (`scripts/
 
 ## How the skills act
 
-The skills drive a real iPhone through Zeptap, in the accounts already signed in on that phone. They are written to:
+The skills drive a real iPhone or iPad through Zeptap, in the accounts already signed in on that device. They are written to:
 
 - ask before anything that spends money, deletes data or changes account settings;
 - never enter passwords, payment details or one-time codes;
