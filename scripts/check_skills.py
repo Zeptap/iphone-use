@@ -3,14 +3,14 @@
 import pathlib, re, sys
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent / "skills"
-EXPECTED = """iphone-use instagram tiktok instagram-story-poster instagram-poster tiktok-uploader
+EXPECTED = """iphone-use ipad-use instagram tiktok instagram-story-poster instagram-poster tiktok-uploader
 youtube-shorts-uploader linkedin-poster short-video-cross-poster multi-account-poster instagram-dm-replies instagram-comment-to-dm
 app-onboarding-teardown ios-real-device-testing ios-bug-repro
 ios-dynamic-type-check testflight-smoke-test iphone-errands
 iphone-shortcuts-builder content-gap-finder hook-and-format-scout content-ideas-from-comments app-store-rank-check app-review-digest
 delivery-price-check reddit-poster flight-price-check instagram-warmup tiktok-warmup competitor-content-check weekly-creator-report
 comment-replies reddit-research niche-engagement ad-creative-scout linkedin-engagement reddit reddit-karma-builder reddit-lead-finder""".split()
-SHIPPED_ELSEWHERE = {"ipad-use"}
+SHIPPED_ELSEWHERE = set()
 BANNED = re.compile(r"\b(USB|Bluetooth|AssistiveTouch|OCR)\b")
 APP_GUIDES = {"instagram", "tiktok", "reddit"}
 

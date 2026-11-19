@@ -1,0 +1,19 @@
+# Trigger evals for ipad-use. Run with all Zeptap skills installed, in Claude Code and Codex.
+# Target: loads for >= 8 of 10 should_trigger, <= 1 of 5 should_not_trigger.
+should_trigger:
+  - "use my iPad to set an alarm for 6:30 tomorrow"
+  - "open Goodnotes on my iPad and make a new notebook called Physics"
+  - "can you control my iPad for me?"
+  - "check how much storage is left on my iPad"
+  - "on my ipad, open Notes and add eggs to the grocery list"
+  - "turn off notifications for games on my iPad"
+  - "what iPadOS version is my iPad on? look it up on the device"
+  - "do this on my iPad: find which Wi-Fi network it's connected to"
+  - "go into YouTube on my iPad and tell me what's in my Watch Later"
+  - "automate this on my iPad: open Spotify and start my Daily Mix 1"
+should_not_trigger:
+  - "use my iPhone to set an alarm for 6:30 tomorrow"
+  - "boot the iPad simulator in Xcode and run my app on it"
+  - "use my iPad as a second display for my Mac"
+  - "which iPad should I buy for drawing?"
+  - "write a SwiftUI split view layout for iPad"
